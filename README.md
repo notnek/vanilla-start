@@ -13,7 +13,7 @@ Bare-bones project for vanilla JS, powered by Vite and optionally TailwindCSS.
 
 ## Production
 
-1. `yarn build` or `npm run build` (optionall followed by `serve` to preview it locally)
+1. `yarn build` or `npm run build` (optionally followed by `serve` to preview it locally)
 
 ## License
 
