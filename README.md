@@ -4,8 +4,7 @@ Bare-bones project for vanilla JS, powered by Vite and optionally TailwindCSS.
 
 ## Setup
 
-1. `git clone https://github.com/notnek/vanilla-starter your-new-project-name`
-2. `yarn install` or `npm install`
+1. `yarn install` or `npm install`
 
 ## Development
 
